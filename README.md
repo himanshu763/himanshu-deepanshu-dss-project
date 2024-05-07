@@ -41,15 +41,4 @@ To run the Streamlit app:
 
 ```bash
 streamlit run app.py
-```
-
-## Contributing
-This repository is meant as supporting material for the [Youtube video tutorial](https://youtu.be/bupx08ZgSFg). Therefore, I am not accepting any pull requests unless they are for fixing bugs or typos.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-**Note**: This project is for educational and research purposes. Ensure to comply with the terms of use and guidelines of the utilized APIs and services.
 
